@@ -8,3 +8,6 @@ vet_clinic(# escape_attempts INTEGER,
 vet_clinic(# neutered BOOLEAN,
 vet_clinic(# weight_kg DECIMAL(8, 2)
 vet_clinic(# );
+
+ALTER TABLE animals
+vet_clinic-# ADD COLUMN species VARCHAR(255);
