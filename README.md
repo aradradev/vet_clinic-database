@@ -1,5 +1,3 @@
-## Getting Started
-
 <h1 align="center">Vet Clinic DB</h1>
 <a name="readme-top"></a>
 
