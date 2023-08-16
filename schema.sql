@@ -13,6 +13,22 @@ ALTER TABLE animals
 vet_clinic-# ADD COLUMN species VARCHAR(255);
 
 
+ CREATE TABLE owners(
+vet_clinic(# id serial PRIMARY KEY,
+vet_clinic(# full_name VARCHAR(255),
+vet_clinic(# age INTEGER
+vet_clinic(# );
+CREATE TABLE
+vet_clinic=# \d
+               List of relations
+ Schema |      Name      |   Type   |  Owner
+--------+----------------+----------+----------
+ public | animals        | table    | postgres
+ public | animals_id_seq | sequence | postgres
+ public | owners         | table    | postgres
+ public | owners_id_seq  | sequence | postgres
+(4 rows)
+
  CREATE TABLE species(
 vet_clinic(# id serial PRIMARY KEY,
 vet_clinic(# name VARCHAR(255)
