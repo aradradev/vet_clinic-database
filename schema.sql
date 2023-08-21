@@ -43,11 +43,10 @@ CREATE TABLE specializations (
 );
 
 CREATE TABLE visits (
-    id INT GENERATED ALWAYS AS IDENTITY,
     animal_id INTEGER REFERENCES animals(id),
     vet_id INTEGER REFERENCES vets(id),
     visit_date DATE,
-    PRIMARY KEY (id)
+    PRIMARY KEY (animal_id, vet_id, visit_date)
 );
 
 ALTER TABLE owners ADD COLUMN email VARCHAR(120);
