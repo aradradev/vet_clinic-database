@@ -10,7 +10,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
@@ -46,14 +45,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](not live demo yet...)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -70,6 +61,11 @@ his repository includes files with plain SQL that can be used to recreate a data
 
 - Wellfound: [@aradradev](https://wellfound.com/u/jalloh)
 - LinkedIn: [Jalloh](https://www.linkedin.com/in/abdul-jalloh)
+
+👤 **Oumaima Nejjari**
+
+- GitHub: [@aima98](https://github.com/aima98)
+- LinkedIn: [Oumaima Nejjari](https://www.linkedin.com/in/oumaimanejjari/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
